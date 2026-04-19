@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "betterconcretes:smooth_purple_concrete",
+    "betterconcretes:chiseled_purple_concrete",
+    "betterconcretes:polished_purple_concrete",
+    "betterconcretes:brick_purple_concrete"
+  ]
+}

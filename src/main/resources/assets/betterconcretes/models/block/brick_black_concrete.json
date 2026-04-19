@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "betterconcretes:block/brick_black_concrete"
+  }
+}

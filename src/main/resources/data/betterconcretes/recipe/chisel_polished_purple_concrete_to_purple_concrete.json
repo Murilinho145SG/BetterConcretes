@@ -1,0 +1,7 @@
+{
+  "type": "betterconcretes:chisel",
+  "ingredient": "betterconcretes:polished_purple_concrete",
+  "result": {
+    "id": "minecraft:purple_concrete"
+  }
+}

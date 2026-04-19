@@ -1,0 +1,44 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+runs
+run-data
+
+repo
+
+# Claude Code local settings
+.claude/
+
+# SD / LoRA experiment artifacts (local-only, too large for git)
+tools/lora/
+tools/research/
+tools/sd_raw/
+tools/sd_raw_v2/
+tools/sd_raw_v3/
+tools/preview/
+tools/preview_v3/
+tools/preview_v4/
+tools/preview_v5/
+tools/preview_v6/
+tools/preview_v7/
+tools/preview_v8/
+tools/preview_v8_full/

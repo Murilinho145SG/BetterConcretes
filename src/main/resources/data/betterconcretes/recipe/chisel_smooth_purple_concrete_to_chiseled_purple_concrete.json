@@ -1,0 +1,7 @@
+{
+  "type": "betterconcretes:chisel",
+  "ingredient": "betterconcretes:smooth_purple_concrete",
+  "result": {
+    "id": "betterconcretes:chiseled_purple_concrete"
+  }
+}

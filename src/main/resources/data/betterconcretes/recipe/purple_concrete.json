@@ -1,0 +1,7 @@
+{
+  "type": "betterconcretes:water_transform",
+  "ingredient": "minecraft:purple_concrete_powder",
+  "result": {
+    "id": "minecraft:purple_concrete"
+  }
+}

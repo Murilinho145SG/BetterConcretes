@@ -1,0 +1,7 @@
+{
+  "type": "betterconcretes:chisel",
+  "ingredient": "betterconcretes:polished_gray_concrete",
+  "result": {
+    "id": "betterconcretes:chiseled_gray_concrete"
+  }
+}

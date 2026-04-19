@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "betterconcretes:block/smooth_cyan_concrete_ctm_5"
+  }
+}

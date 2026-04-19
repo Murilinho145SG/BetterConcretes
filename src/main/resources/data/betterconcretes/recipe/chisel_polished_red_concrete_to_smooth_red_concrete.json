@@ -1,0 +1,7 @@
+{
+  "type": "betterconcretes:chisel",
+  "ingredient": "betterconcretes:polished_red_concrete",
+  "result": {
+    "id": "betterconcretes:smooth_red_concrete"
+  }
+}

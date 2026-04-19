@@ -1,0 +1,7 @@
+{
+  "type": "betterconcretes:chisel",
+  "ingredient": "betterconcretes:brick_brown_concrete",
+  "result": {
+    "id": "betterconcretes:chiseled_brown_concrete"
+  }
+}

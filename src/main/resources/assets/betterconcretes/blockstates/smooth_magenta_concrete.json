@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": {
+      "type": "betterconcretes:connected",
+      "texture_prefix": "betterconcretes:block/smooth_magenta_concrete"
+    }
+  }
+}

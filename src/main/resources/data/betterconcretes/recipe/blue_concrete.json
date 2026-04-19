@@ -1,0 +1,7 @@
+{
+  "type": "betterconcretes:water_transform",
+  "ingredient": "minecraft:blue_concrete_powder",
+  "result": {
+    "id": "minecraft:blue_concrete"
+  }
+}
